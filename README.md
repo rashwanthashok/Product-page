@@ -76,7 +76,9 @@ Note: The provided code serves as a foundation for creating an appealing and use
 
 
 
+## Deployment status
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6ff84ef6-53a4-4454-86a2-ce4f21fe7858/deploy-status)](https://app.netlify.com/sites/jsprojects26-product-page/deploys)
 
 ## Contributing
 
