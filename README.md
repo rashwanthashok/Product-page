@@ -18,7 +18,7 @@ Rashwanth- Product Page: Create a dynamic, visually appealing product page. Show
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Product-Page/
+    https://rashwanthashok.github.io/Product-page/
 ## Getting Started
 
 To get started with the Rashwanth- Product Page, follow these steps:
